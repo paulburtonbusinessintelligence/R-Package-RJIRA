@@ -4,6 +4,6 @@ Title: JIRA Rest API interface
 Version: 1.0
 Date: 2015-12-05
 Author: Alfonso de Uña
-Maintainer: briofons@gmail.com
+Maintainer: Alfonso de Uña <briofons@gmail.com>
 Description: Simple connection way to JIRA
 License: GPU
